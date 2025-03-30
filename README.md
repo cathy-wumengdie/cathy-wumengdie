@@ -1,5 +1,6 @@
 # Hi there👋!
 - 📖 I’m currently studying Computer Science @ University of Waterloo
+- 💕 I love cooking, rock climbing and learning new skills
 - 🌱 I’m interested in Software development positions (back-end, compiler, etc...)
 - 📫 email: cathy.mengdie@outlook.com
 - 📩 LinkedIn: https://www.linkedin.com/in/cathy-mengdie-wu

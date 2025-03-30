@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mengdie (Cathy) Wu @cathy-wumengdie
+# Hi there👋!
 - 📖 I’m currently studying Computer Science @ University of Waterloo
 - 🌱 I’m interested in Software development positions (back-end, compiler, etc...)
 - 📫 email: cathy.mengdie@outlook.com

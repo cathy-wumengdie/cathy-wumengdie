@@ -1,7 +1,7 @@
 # Hi there👋!
 - 📖 I’m currently studying Computer Science @ University of Waterloo
 - 💕 I love cooking🍳, rock climbing🧗‍♀️ and learning new skills!!
-- 🌱 I’m interested in software development positions (back-end, front-end, full stack, compiler, etc)
+- 🌱 I’m interested in software development positions (back-end, full stack, etc)
 - 📫 email: cathy.mengdie@outlook.com
 - 📩 LinkedIn: https://www.linkedin.com/in/cathy-mengdie-wu
 
